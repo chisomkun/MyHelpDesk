@@ -1,0 +1,10 @@
+/home/chiz/eclipse-workspace/danzo/src/main/java/com/konoha/danzo/service/UserServiceImpl.java
+/home/chiz/eclipse-workspace/danzo/src/main/java/com/konoha/danzo/model/Login.java
+/home/chiz/eclipse-workspace/danzo/src/main/java/com/konoha/danzo/DanzoApplication.java
+/home/chiz/eclipse-workspace/danzo/src/main/java/com/konoha/danzo/service/UserService.java
+/home/chiz/eclipse-workspace/danzo/src/main/java/com/konoha/danzo/dao/UserDaoImpl.java
+/home/chiz/eclipse-workspace/danzo/src/main/java/com/konoha/danzo/Controller/RegistrationController.java
+/home/chiz/eclipse-workspace/danzo/src/main/java/com/konoha/danzo/Controller/LoginController.java
+/home/chiz/eclipse-workspace/danzo/src/main/java/com/konoha/danzo/model/User.java
+/home/chiz/eclipse-workspace/danzo/src/main/java/com/konoha/danzo/HomeController.java
+/home/chiz/eclipse-workspace/danzo/src/main/java/com/konoha/danzo/dao/UserDao.java
